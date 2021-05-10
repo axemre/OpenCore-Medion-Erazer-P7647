@@ -39,6 +39,8 @@ What does not work?
 * maybe something else I have missed?
 
 Picture of the laptop:
+
+
 ![1284989](https://user-images.githubusercontent.com/19302720/117622059-8626a600-b172-11eb-94f7-04802814bb2d.jpg)
 
 
