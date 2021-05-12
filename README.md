@@ -17,7 +17,7 @@ Specs:
 * SMBIOS MacBookPro 14,2
 * OpenCore Version 0.6.0
 
-What works?g
+What works?
 
 * Boot 
 * WiFi (works using itlwm)
@@ -32,8 +32,8 @@ What works?g
 
 What does not work?
 
-* HDMI (not tested, probably working, don't need HDMI output on this particular laptop)
-* Lid-Sleep/Wake (Lid-Wake does not even work in Windows on this laptop, sleep using Menu (Apple logo > Hibarnate) does work and wake using power button works perfectly fine)
+* HDMI (not tested, probably working, I personally don't need HDMI output on this particular laptop)
+* Lid-Sleep/Wake (Lid-Wake does not even work in Windows on this laptop, sleep using Menu (Apple logo > Hibernate) does work and wake using power button works perfectly fine)
 * SMC (fan control) 
 * NVIDIA dGPU (does not work, has Optimus, disabled using -wegnoegpu)
 * maybe something else I have missed?
